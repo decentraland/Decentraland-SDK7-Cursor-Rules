@@ -492,7 +492,6 @@ function getPlayerData() {
   )) {
     // Player address and guest status
     console.log('Player address:', identity.address)
-    console.log('Is guest:', identity.isGuest)
     
     // Avatar base information
     console.log('Player name:', base.name)
